@@ -12,3 +12,8 @@ let livro = {
 };
 
 console.log(`${livro.titulo} é um livro de ${livro.genero}, publicando em ${livro.anoPublicacao} e escrito por ${livro.autor}.`)
+
+
+
+
+

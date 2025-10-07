@@ -1,0 +1,1 @@
+console.log(`EU AMOOO A MINHA MULHEEEERRRR`)
